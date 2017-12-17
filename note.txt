@@ -1,7 +1,0 @@
-https://github.com/jekyll/jekyll/wiki/sites
-
-TB Hartman¡¦s personal website (source) - A website which will one day serve as my professional landing page.
-http://tbhartman.org/
-
-Educative-Games.org (source) ¡V a single page site using Jekyll¡¦s front matter as a neat, light database (which should soon prove to be in fact a large and shitty scaling issue).
-http://educative-games.org/#about
